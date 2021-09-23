@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.cardview.widget.CardView android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardBackgroundColor="#c0c0c0"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+<!--        its messy how do I correct it
+like seriously ha ha-->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/tvTitle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:text="ldjfhsaljh ldjfhsaljh ldjfhsaljh ldjfhsaljh ldjfhsaljh ldjfhsaljh ldjfhsaljh ldjfhsaljh ldjfhsaljh ldjfhsaljhvldjfhsaljhvldjfhsaljhv"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tvDescription"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:text="ldjfhsaljh ldjfhsaljh ldjfhsaljh ldjfhsaljhldjfhsaljh ldjfhsaljh ldjfhsaljh ldjfhsaljh ldjfhsaljh ldjfhsaljh ldjfhsaljh ldjfhsaljh ldjfhsaljh ldjfhsaljhvldjfhsaljhvldjfhsaljhv ldjfhsaljh ldjfhsaljh ldjfhsaljh ldjfhsaljh ldjfhsaljh ldjfhsaljh ldjfhsaljh ldjfhsaljhvldjfhsaljhvldjfhsaljhvldjfhsaljh ldjfhsaljh ldjfhsaljh ldjfhsaljh ldjfhsaljh ldjfhsaljh ldjfhsaljh ldjfhsaljhvldjfhsaljhvldjfhsaljhv"
+                android:textSize="15sp" />
+
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
